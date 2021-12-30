@@ -1,10 +1,10 @@
 # Spark Ar Project - Facebook, Instagram Filter
 
 ## NgeGas
-Fluid simulation:
-
-https://user-images.githubusercontent.com/6877923/125816983-610905ce-dd7a-4cbc-8559-e1e61ed5e33c.mp4
+[Preview](https://github.com/mohali-id/spark-ar/blob/master/NgeGas/preview.mp4?raw=true)
 
 ## Ngojek
+[Preview](https://github.com/mohali-id/spark-ar/blob/master/Ngojek/preview.mp4?raw=true)
 
 ## SuperMario
+[Preview](https://github.com/mohali-id/spark-ar/blob/master/SuperMario/preview.mp4?raw=true)
