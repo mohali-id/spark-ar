@@ -3,7 +3,7 @@
 ## NgeGas
 Preview :
 
-https://raw.githubusercontent.com/mohali-id/spark-ar/master/NgeGas/preview.mp4
+[![asciicast](https://asciinema.org/a/113463.png)](https://asciinema.org/a/113463)
 
 ## Ngojek
 
